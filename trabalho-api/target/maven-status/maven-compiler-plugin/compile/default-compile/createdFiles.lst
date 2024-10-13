@@ -1,0 +1,6 @@
+com\trabalho\crud\core\entity\BusinessException.class
+com\trabalho\crud\core\entity\Hospede.class
+com\trabalho\crud\inbound\controller\HospedeController__Javadoc.json
+com\trabalho\crud\outbound\repository\JpaHospedeRepository.class
+com\trabalho\crud\core\repository\HospedeRepository.class
+com\trabalho\crud\CrudApplication.class
