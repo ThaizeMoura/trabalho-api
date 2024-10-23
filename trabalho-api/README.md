@@ -14,8 +14,6 @@ eficiente, minimizando erros e maximizando a produtividade.
 - Spring Boot
 - JPA
 - lombok
-- MySQL Workbench
-- Postman
 
 ## Pré-requisitos
 
