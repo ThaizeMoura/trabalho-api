@@ -1,4 +1,4 @@
-# Projeto JTI (Interação Tecnológica a Java) - Backend (trabalho-api)
+# Projeto JTI (Interação Tecnológica a Java) - Backend 
 
 ## Descrição
 
